@@ -111,7 +111,7 @@ test/
 
 ```bash
 git clone [repository-url]
-cd customer-churn-analytics
+cd ChurnAI-Dashboard
 ```
 
 2. Set up virtual environment
